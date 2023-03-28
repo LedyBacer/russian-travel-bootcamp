@@ -54,7 +54,7 @@
 }
 
 .lead {
-    margin: 56px 48px 0;
+    margin: 56px 148px 0;
     display: flex;
     flex-flow: column;
     align-items: center;
@@ -90,7 +90,7 @@
 .lead__image {
     margin-top: 64px;
     width: 100%;
-    max-width: 984px;
+    /*max-width: 984px;*/
     height: auto;
 }
 
@@ -142,7 +142,13 @@
 }
 
 @media screen and (max-width: 1279px) {
+    .lead {
+        margin: 56px 48px 0;
+    }
 
+    .intro {
+        margin: 92px 0 0 48px;
+    }
 }
 
 @media screen and (max-width: 1023px) {
@@ -152,6 +158,10 @@
 
     .lead__caption {
         margin: 8px 0 0 16px;
+    }
+
+    .intro {
+        margin: 88px 24px 0;
     }
 }
 
@@ -190,5 +200,14 @@
         margin: 8px 0 0 16px;
         font-size: 10px;
         line-height: 14px;
+    }
+
+    .intro {
+        margin: 64px 16px 0;
+    }
+
+    .intro__title {
+        font-size: 32px;
+        line-height: 35px;
     }
 }
