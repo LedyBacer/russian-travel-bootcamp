@@ -166,6 +166,7 @@
     "title url"
     "image textbox";
     grid-gap: 48px 40px;
+    justify-self: start;
 }
 
 .place__title {
@@ -496,7 +497,7 @@
     .cover__title {
         font-size: 32px;
         line-height: 35px;
-        max-width: 288px;
+        max-width: 255px
 
     }
 
