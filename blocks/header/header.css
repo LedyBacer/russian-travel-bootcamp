@@ -4,6 +4,12 @@
     justify-content: space-between;
 }
 
+@media screen and (max-width: 1023px) {
+    .header {
+        margin: 24px 28px 0;
+    }
+}
+
 @media screen and (max-width: 767px) {
     .header {
         margin: 16px 16px 0;
