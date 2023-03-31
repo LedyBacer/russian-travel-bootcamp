@@ -8,6 +8,7 @@
     color: #fff;
     text-decoration: none;
     align-items: center;
+    aspect-ratio: 16/10;
 }
 
 .cover__overlay:hover {
