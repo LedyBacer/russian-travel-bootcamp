@@ -1,9 +1,9 @@
-# [Проект: Путешествие по России](https://ledybacer.github.io/russian-travel-bootcamp/)
+# [Project: Travel around Russia](https://ledybacer.github.io/russian-travel-bootcamp/)
 
-Учебный проект целью которого было научится делать адаптивные сайты по макету с помощью флексбоксов, гридов и медиазапросов. Проект написан на HTML и CSS с использованием Nested BEM.
+A training project with the aim of learning to create adaptive websites based on a design template using flexboxes, grids, and media queries. The project is written in HTML and CSS using Nested BEM.
+## Deployment
 
-## Развёртывание
+Deploy the contents of the russian-travel-bootcamp folder on your web server.
 
-Разверните содержимое папки `russian-travel-bootcamp` на вашем веб-сервере.
+For deployment, you can use the services of any hosting that supports static sites. For example, Netlify (https://www.netlify.com/), Vercel (https://vercel.com/), GitHub Pages (https://pages.github.com/), and others.
 
-Для развертывания вы можете воспользоваться услугами любого хостинга, который поддерживает статические сайты. Например, [Netlify](https://www.netlify.com/), [Vercel](https://vercel.com/), [GitHub Pages](https://pages.github.com/) и другие.
